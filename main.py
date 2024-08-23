@@ -1,3 +1,5 @@
+# Este projeto foi desenvolvido com base no tutorial "12 Beginner Python Projects - Coding Course" de FreeCodeCamp no YouTube. 
+
 import random
 import time
 
